@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: harisca03/admin:v1
+          image: harisca03/admin:6
           ports:
             - containerPort: 80

@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: harisca03/backend:v1
+          image: harisca03/backend:6
           ports:
             - containerPort: 3000
           env:
